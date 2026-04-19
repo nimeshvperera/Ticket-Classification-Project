@@ -1,0 +1,166 @@
+ticket_text,priority,department,status
+"My internet connection keeps dropping every few minutes. This has been happening for the past 3 days. Very frustrating!",High,Technical Support,Open
+"I would like to know about the different pricing plans available for business customers. Please send me detailed information.",Low,Sales,Open
+"Cannot access my email account. Password reset link is not working. Need urgent help!",High,Technical Support,Open
+"Thank you for resolving my billing issue so quickly! Your support team is amazing. Great service!",Low,Customer Service,Closed
+"The software crashes whenever I try to export data to Excel. This is blocking my work completely.",High,Technical Support,Open
+"I'm interested in upgrading my current plan. What are the available options and pricing?",Medium,Sales,Open
+"Your service has been terrible lately. Multiple outages and no communication. Very disappointed.",High,Customer Service,Open
+"How do I change my account settings? The interface is not very intuitive. Need some guidance.",Low,Technical Support,Open
+"Billing error on my last invoice. I was charged twice for the same service. Please fix this immediately.",High,Billing,Open
+"Just wanted to say thanks for the excellent customer support. My issue was resolved within hours!",Low,Customer Service,Closed
+"The mobile app is not syncing with the web version. Lost important data. This is unacceptable!",High,Technical Support,Open
+"Can someone explain the difference between your premium and enterprise plans? Need details on features.",Medium,Sales,Open
+"System is running very slow since the last update. Takes forever to load. Please help.",Medium,Technical Support,Open
+"I received a promotional email about discounts. How can I apply this to my account?",Low,Sales,Open
+"Account has been locked for no reason. Cannot login. Need immediate assistance!",High,Technical Support,Open
+"Your team helped me migrate all my data smoothly. Professional and efficient service. Highly recommend!",Low,Customer Service,Closed
+"Payment method on file is not working. Cannot update credit card information. Getting error messages.",High,Billing,Open
+"Interested in scheduling a demo of your enterprise solution for our team. What's the process?",Medium,Sales,Open
+"The new update broke several features I regularly use. Very frustrated with this release.",High,Technical Support,Open
+"Where can I find documentation on API integration? Need technical specifications and examples.",Low,Technical Support,Open
+"Your support representative was rude and unhelpful. Terrible customer service experience!",High,Customer Service,Open
+"Reports are not generating correctly. Numbers don't match. This is affecting our business decisions.",High,Technical Support,Open
+"What are the system requirements for your software? Planning to deploy across multiple workstations.",Low,Technical Support,Open
+"Refund request for cancelled service. Still waiting after 2 weeks. This is taking too long!",High,Billing,Open
+"Just upgraded to premium plan. Everything works great! Very satisfied with the features.",Low,Customer Service,Closed
+"Cannot connect to VPN. Getting authentication errors. Need to access system remotely for work.",High,Technical Support,Open
+"Do you offer volume discounts for multiple licenses? Looking to purchase for entire department.",Medium,Sales,Open
+"Dashboard widgets are not displaying data. Everything shows zero. Tried refreshing multiple times.",Medium,Technical Support,Open
+"Received wrong product in my order. Need replacement or refund. Order number #12345.",High,Customer Service,Open
+"The training materials you provided were very helpful. Team is now fully onboarded. Thank you!",Low,Customer Service,Closed
+"Security concerns about recent data breach reports. What measures are in place to protect customer data?",High,Technical Support,Open
+"Need information about contract renewal terms. Current contract expires next month.",Medium,Sales,Open
+"Automated backups are failing. Cannot restore previous versions. Critical business data at risk!",High,Technical Support,Open
+"How do I cancel my subscription? Cannot find the option in account settings.",Low,Customer Service,Open
+"Love the new features in the latest update! Interface is much more user-friendly now.",Low,Customer Service,Closed
+"Integration with third-party tools is not working. API returns error codes. Need developer assistance.",High,Technical Support,Open
+"Interested in partnership opportunities. Would like to discuss reseller program details.",Medium,Sales,Open
+"Print function is broken. Documents are corrupted when printed. Tried different printers, same issue.",Medium,Technical Support,Open
+"Charged for services I didn't use. Invoice shows incorrect usage metrics. Need detailed breakdown.",High,Billing,Open
+"Your product has exceeded our expectations. ROI has been fantastic. Will definitely renew!",Low,Customer Service,Closed
+"Two-factor authentication is not working. Not receiving verification codes. Cannot access account!",High,Technical Support,Open
+"Can you provide case studies of similar companies using your solution? Need for internal presentation.",Low,Sales,Open
+"Search functionality is terrible. Cannot find anything. Results are irrelevant and incomplete.",Medium,Technical Support,Open
+"Shipping was delayed by 2 weeks. No tracking updates. Poor logistics management.",High,Customer Service,Open
+"Impressed by the quick response time. Issue resolved on first contact. Excellent support!",Low,Customer Service,Closed
+"File uploads are timing out for large files. Maximum size limit is too restrictive for our needs.",Medium,Technical Support,Open
+"What training options are available for new users? Do you offer on-site training sessions?",Low,Sales,Open
+"Custom fields are not saving data. Form validation errors everywhere. System is unusable!",High,Technical Support,Open
+"Duplicate charges on my credit card. Was billed three times this month. Fix this now!",High,Billing,Open
+"Migration from old system was seamless. Data integrity maintained. Great job by technical team!",Low,Customer Service,Closed
+"Notifications are not being sent. Email alerts completely stopped working yesterday.",Medium,Technical Support,Open
+"Looking for white-label solutions. Can your platform be customized with our branding?",Medium,Sales,Open
+"Performance degradation during peak hours. System becomes unresponsive. Affecting productivity.",High,Technical Support,Open
+"Unclear about data retention policies. How long is customer data stored? Need compliance information.",Low,Technical Support,Open
+"Support ticket was closed without resolution. Issue still persists. Reopening for proper fix!",High,Customer Service,Open
+"Export functionality works perfectly now after the fix. Thanks for the prompt resolution!",Low,Customer Service,Closed
+"Mobile app crashes on startup. Cannot access account from phone. Only happens on iOS devices.",High,Technical Support,Open
+"Interested in annual payment option. Do you offer discounts for yearly subscriptions?",Medium,Sales,Open
+"Attachments are not uploading. File size is within limits. Browser console shows JavaScript errors.",Medium,Technical Support,Open
+"Received damaged goods. Packaging was inadequate. Request return authorization immediately.",High,Customer Service,Open
+"Onboarding process was smooth and well-organized. Appreciate the dedicated account manager!",Low,Customer Service,Closed
+"SSL certificate expired. Website showing security warnings. This looks very unprofessional!",High,Technical Support,Open
+"Can we schedule a call to discuss enterprise pricing? Have specific requirements to discuss.",Medium,Sales,Open
+"Calendar sync is broken. Events not updating across devices. Missing important meetings!",High,Technical Support,Open
+"Promotional discount code is not applying at checkout. Shows as invalid. Code is still valid!",Medium,Billing,Open
+"Product quality is outstanding. Exactly what we needed. Will be ordering more soon!",Low,Customer Service,Closed
+"Database connection errors since maintenance window. Application completely down for users.",High,Technical Support,Open
+"What are the cancellation terms? Need to understand early termination fees before committing.",Low,Sales,Open
+"Keyboard shortcuts are not working. Have to use mouse for everything. Very inefficient workflow.",Low,Technical Support,Open
+"Account was suspended without warning. No explanation provided. Need immediate reactivation!",High,Customer Service,Open
+"Feature request was implemented quickly. Love how you listen to customer feedback!",Low,Customer Service,Closed
+"Memory leak in the application. System gets slower over time. Need to restart every few hours.",Medium,Technical Support,Open
+"Considering upgrade to enterprise plan. What additional features would we get?",Medium,Sales,Open
+"Sorting and filtering options are limited. Cannot organize data effectively. Need more flexibility.",Low,Technical Support,Open
+"Wrong product delivered. Ordered Model A but received Model B. Shipping department error.",High,Customer Service,Open
+"Customer support went above and beyond to help. Truly exceptional service experience!",Low,Customer Service,Closed
+"Authentication tokens expiring too quickly. Have to login constantly. Very annoying!",Medium,Technical Support,Open
+"Need detailed comparison between your product and competitors. Evaluating options for purchase.",Medium,Sales,Open
+"UI is confusing and cluttered. Poor user experience design. Needs complete redesign.",Medium,Technical Support,Open
+"Automatic renewal charged without notification. Want to cancel and get refund for this period.",High,Billing,Open
+"Beta testing program has been great. Love being involved in product development!",Low,Customer Service,Closed
+"Critical bug in production. Data loss occurring. Need emergency hotfix deployed immediately!",High,Technical Support,Open
+"Do you have government or education pricing? Non-profit organization seeking discounts.",Low,Sales,Open
+"Drag and drop functionality is buggy. Items disappear or duplicate randomly. Unreliable feature.",Medium,Technical Support,Open
+"Package arrived with missing items. Only received partial order. Need remaining items shipped.",High,Customer Service,Open
+"Switching from competitor was best decision. Your platform is far superior. Happy customer!",Low,Customer Service,Closed
+"LDAP integration failing. Cannot sync user directory. Authentication not working for entire team!",High,Technical Support,Open
+"Interested in pilot program. Can we trial the enterprise features before full commitment?",Medium,Sales,Open
+"Charts and graphs rendering incorrectly. Data visualization is broken. Shows wrong values.",Medium,Technical Support,Open
+"Overcharged by significant amount. Invoice total doesn't match agreed pricing. Accounting error.",High,Billing,Open
+"Premium support subscription is worth every penny. Instant help whenever needed!",Low,Customer Service,Closed
+"Webhook notifications stopped working. No events being received. Integration completely broken!",High,Technical Support,Open
+"What payment methods do you accept? Need to use purchase order for procurement process.",Low,Sales,Open
+"Undo function is unreliable. Sometimes works, sometimes doesn't. Lost work multiple times.",Medium,Technical Support,Open
+"Return process was complicated and took forever. Customer service was unhelpful throughout.",High,Customer Service,Open
+"Referral program benefits are excellent. Appreciate the rewards for recommendations!",Low,Customer Service,Closed
+"Server timeouts during data synchronization. Large datasets failing to upload completely.",High,Technical Support,Open
+"Can we get a custom quote for our specific needs? Standard plans don't quite fit requirements.",Medium,Sales,Open
+"Mobile responsive design is poor. Layout breaks on tablets. Unusable on smaller screens.",Medium,Technical Support,Open
+"Still waiting for refund promised 3 weeks ago. Multiple follow-ups ignored. Unacceptable delay!",High,Billing,Open
+"Platform stability has been rock solid. Zero downtime in past 6 months. Impressive!",Low,Customer Service,Closed
+"Backup restoration process failed. Cannot recover deleted files. Critical data permanently lost!",High,Technical Support,Open
+"Looking to migrate from current provider. What does your migration assistance include?",Medium,Sales,Open
+"Timezone handling is completely broken. All timestamps showing incorrect times. Major issue.",High,Technical Support,Open
+"Product doesn't match description on website. Misleading marketing information. Very disappointing.",High,Customer Service,Open
+"Account manager is proactive and helpful. Always available when we need assistance!",Low,Customer Service,Closed
+"Single sign-on not working with our identity provider. Configuration steps unclear and incomplete.",High,Technical Support,Open
+"Need bulk licensing options. Planning deployment for 500+ users across organization.",Medium,Sales,Open
+"Accessibility features are inadequate. Screen reader compatibility is poor. Not WCAG compliant.",Medium,Technical Support,Open
+"Charged annual fee despite requesting cancellation last month. Want immediate refund!",High,Billing,Open
+"Documentation is comprehensive and well-written. Easy to find answers. Great resources!",Low,Customer Service,Closed
+"Concurrent user limits causing lockouts. Team cannot work simultaneously. Need license upgrade immediately!",High,Technical Support,Open
+"Interested in add-on modules. What additional functionality can be purchased separately?",Low,Sales,Open
+"Copy-paste functionality broken in text editor. Formatting gets corrupted. Basic feature not working!",Medium,Technical Support,Open
+"Delivery was late and no one notified me. Had to contact support multiple times for update.",High,Customer Service,Open
+"Loyalty rewards program is generous. Accumulated points quickly. Great incentive!",Low,Customer Service,Closed
+"API rate limits are too restrictive. Cannot complete necessary operations. Blocking business processes!",High,Technical Support,Open
+"What certifications does your platform have? Need SOC2 and ISO compliance documentation.",Low,Sales,Open
+"Permission system is too granular. Cannot assign roles efficiently. Overly complicated setup.",Low,Technical Support,Open
+"Received defective item. Quality control failure. Expecting replacement and compensation.",High,Customer Service,Open
+"Renewal process was straightforward. Transparent pricing. No hidden fees. Appreciate honesty!",Low,Customer Service,Closed
+"Encryption at rest not working. Sensitive data stored in plain text. Major security vulnerability!",High,Technical Support,Open
+"Do you offer month-to-month contracts? Don't want long-term commitment initially.",Low,Sales,Open
+"Import wizard crashes with large CSV files. Cannot migrate existing data. Blocking onboarding!",High,Technical Support,Open
+"Subscription auto-renewed at higher price without notice. Should have been grandfathered in!",High,Billing,Open
+"Product updates are released regularly. Continuous improvement visible. Active development!",Low,Customer Service,Closed
+"Race condition in concurrent processing. Data corruption occurring. Critical production bug!",High,Technical Support,Open
+"Looking for partnership to resell your services. What are commission rates?",Medium,Sales,Open
+"Spell check not working. Auto-correct suggestions are terrible. Basic functionality missing.",Low,Technical Support,Open
+"Package was left in rain and contents damaged. Poor delivery handling. Unacceptable!",High,Customer Service,Open
+"Community forum is active and helpful. Found solutions faster than waiting for support!",Low,Customer Service,Closed
+"Load balancer failing over incorrectly. Sessions being dropped. High availability not working!",High,Technical Support,Open
+"Need implementation services. Can your team help with initial setup and configuration?",Medium,Sales,Open
+"Multi-language support is incomplete. Translations are poor quality. Many strings still in English.",Medium,Technical Support,Open
+"Promised features are missing from purchased plan. Feels like false advertising!",High,Customer Service,Open
+"Upgrade path was seamless. No data loss or downtime. Professional execution!",Low,Customer Service,Closed
+"Audit logs not capturing all events. Compliance requirement not being met. Serious issue!",High,Technical Support,Open
+"Can we get references from similar customers? Want to hear about real experiences.",Low,Sales,Open
+"Dark mode is poorly implemented. Contrast is bad. Hard to read. Eye strain issues.",Low,Technical Support,Open
+"Return label not provided. Have to pay shipping costs myself. Should be prepaid!",Medium,Customer Service,Open
+"Knowledge base articles are detailed and accurate. Self-service support is excellent!",Low,Customer Service,Closed
+"Automated tests failing after platform update. Breaking our CI/CD pipeline. Blocking deployments!",High,Technical Support,Open
+"Interested in extended trial period. Need more time to evaluate all features thoroughly.",Low,Sales,Open
+"Session timeout too aggressive. Getting logged out constantly while working. Productivity killer!",Medium,Technical Support,Open
+"Billing statement is confusing. Line items unclear. Need itemized breakdown explanation.",Medium,Billing,Open
+"SLA commitments consistently exceeded. Reliability has been exceptional. Worth the investment!",Low,Customer Service,Closed
+"Data export stuck in processing. Cannot download reports. Been waiting for hours!",High,Technical Support,Open
+"What's included in professional services package? Need hands-on implementation help.",Medium,Sales,Open
+"Browser back button breaks application state. Have to reload page. Poor navigation handling.",Medium,Technical Support,Open
+"Received wrong size/color. Order fulfillment mistake. Need correct item shipped ASAP.",High,Customer Service,Open
+"Beta features are innovative. Excited about product roadmap. Great vision!",Low,Customer Service,Closed
+"Disaster recovery procedures untested. Backup system never verified. Compliance risk!",High,Technical Support,Open
+"Looking for non-profit discount. Educational institution with limited budget.",Low,Sales,Open
+"Infinite scroll not working. Page freezes when loading more items. Performance issue.",Medium,Technical Support,Open
+"Price increase notification came too late. Already budgeted at old rates. Unfair timing!",High,Billing,Open
+"Customer success team is outstanding. Regular check-ins ensure we're getting maximum value!",Low,Customer Service,Closed
+"Monitoring alerts not triggering. System failures going undetected. Alerting system broken!",High,Technical Support,Open
+"Can you provide ROI calculator? Need to justify investment to management.",Low,Sales,Open
+"Auto-save functionality unreliable. Lost hours of work. Critical feature not dependable!",High,Technical Support,Open
+"Warranty claim rejected unfairly. Product clearly defective. Poor after-sales support!",High,Customer Service,Open
+"Training webinars are informative and well-presented. Great for team onboarding!",Low,Customer Service,Closed
+"Memory consumption keeps growing. Application eating all available RAM. Memory leak!",High,Technical Support,Open
+"Exploring strategic partnership opportunities. Our services complement each other well.",Medium,Sales,Open
+"Localization is broken. Date/time formats incorrect for region. Currency symbols wrong.",Medium,Technical Support,Open
+"Credit not applied to account as promised. Billing department not honoring commitment!",High,Billing,Open
